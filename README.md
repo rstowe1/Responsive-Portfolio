@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Mobile responsive layout
+# Bootstrap-Portfolio
+Portfolio using Bootstrap
