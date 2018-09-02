@@ -1,1 +1,0 @@
-Responsive Bootstrap portfolio website
